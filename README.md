@@ -1,4 +1,4 @@
-<h1>Olá me chamo Jéssica e sou Desenvolvedora FullStack.</h1>
+<h1 style=display= "flex" align="center" font-family:"Handlee">Olá me chamo Jéssica e sou Desenvolvedora FullStack.</h1>
 
 <div style="display: center">
    <img align="right" alt="Jeh-pic" height="200" width="200"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/939216236078845985/939216461312954488/Avatar-Maker.png">
